@@ -10,7 +10,7 @@ gestión de servicios y activos de TI basado en ITIL v4 y metodología Scrum.
 - 🔭 Trabajando en: sistema de gestión de servicios TI (proyecto de tesis)
 - 🌱 Aprendiendo: Help Desk / soporte técnico (curso en Ecugenius S.A.)
 - 💬 Pregúntame sobre: bases de datos, desarrollo web, soporte técnico
-- 📫 Contacto: kevinlara0501@gmail.com | [LinkedIn] https://www.linkedin.com/in/kevin-lara-737aa4205/
+- 📫 Contacto: kevinlara0501@gmail.com | [LinkedIn] (https://www.linkedin.com/in/kevin-lara-737aa4205/)
 
 ---
 
@@ -25,4 +25,4 @@ gestión de servicios y activos de TI basado en ITIL v4 y metodología Scrum.
 
 ---
 
-📌 **Proyecto destacado:** [Sistema de Gestión de Servicios TI]([link-a-tu-repo-de-tesis](https://github.com/kevlaar-eng/sistema-gestion-servicios-ti))
+**Proyecto destacado:** [Sistema de Gestión de Servicios TI]([link-a-tu-repo-de-tesis](https://github.com/kevlaar-eng/sistema-gestion-servicios-ti))
