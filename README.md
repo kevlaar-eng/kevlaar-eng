@@ -25,4 +25,4 @@ gestión de servicios y activos de TI basado en ITIL v4 y metodología Scrum.
 
 ---
 
-📌 **Proyecto destacado:** [Sistema de Gestión de Servicios TI](link-a-tu-repo-de-tesis)
+📌 **Proyecto destacado:** [Sistema de Gestión de Servicios TI]([link-a-tu-repo-de-tesis](https://github.com/kevlaar-eng/sistema-gestion-servicios-ti))
